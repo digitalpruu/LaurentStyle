@@ -36,7 +36,7 @@
     "items": [
       {
         "title": "Servicio",
-        "description": "LaurentStyle se especializa en confeccionar ropa de dama con un enfoque en vestidos y faldas elegantes. Cada pieza es creada con un cuidado meticuloso y un sentido del estilo que busca resaltar la belleza y confianza de quien la lleva.",
+        "description": "LaurentStyle se especializa en confeccionar ropa de dama con un enfoque en vestidos y faldas versátiles. Cada pieza es creada con un cuidado meticuloso y un sentido del estilo que busca resaltar la belleza y confianza de quien la lleva.",
         "img": "/assets/images/2.png"
       },
       {
@@ -53,22 +53,22 @@
     "items": [
       {
         "name": "Número",
-        "description": "+57 300 123456",
+        "description": "+57 317 0868523",
         "icon": "/assets/images/phone.png"
       },
       {
         "name": "Email",
-        "description": "minegocio@gmail.com",
+        "description": "stylelaurent92@gmail.com",
         "icon": "/assets/images/email.png"
       },
       {
         "name": "Instagram",
-        "description": "@MiNegocio",
+        "description": "@lau_rentstyle",
         "icon": "/assets/images/insta.png"
       },
       {
         "name": "Facebook",
-        "description": "Mi Negocio",
+        "description": "Laurent Style",
         "icon": "/assets/images/facebook.jpg"
       }
     ]
