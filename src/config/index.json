@@ -64,13 +64,20 @@
       {
         "name": "Instagram",
         "description": "@lau_rentstyle",
-        "icon": "/assets/images/insta.png"
+        "icon": "/assets/images/insta.png",
+        "url":"https://www.instagram.com/lau_rentstyle?igsh=ZmxlMzV0ejU0dDc3"
       },
       {
         "name": "Facebook",
         "description": "Laurent Style",
         "icon": "/assets/images/facebook.jpg",
-        "url":""
+        "url":"https://www.facebook.com/people/Laurent-Style/61559906206306/"
+      },
+      {
+        "name": "Tiktok",
+        "description": "Laurent Style",
+        "icon": "/assets/images/tiktok.png",
+        "url":"https://www.tiktok.com/@laurentstyle1919?_t=8pfIhpvmYru&_r=1"
       }
     ]
   },
